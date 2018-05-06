@@ -1,0 +1,8 @@
+
+
+#ignore node modules dir
+node_modules/
+
+*.png
+*.jpeg
+*.jpg
